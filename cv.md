@@ -24,7 +24,7 @@ return a * b
 
 ## Professional Experience 
 
-**2016-2019 We and China Magazine (St. Petersburg, Russia)**
+**2016-2020 We and China Magazine (St. Petersburg, Russia)**
 *Editor in chief*
 
 ## Academic Studies 
